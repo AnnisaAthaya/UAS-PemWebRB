@@ -1,0 +1,26 @@
+Soal bonus UAS matakuliah Pemrograman Web RB.
+
+1.Apa langkah-langkah yang Anda lakukan untuk meng-host aplikasi web Anda?
+  Jawab: -Langkah pertama membuat akun di web hosting yg ingin digunakan
+	 -Log in dan tambahkan website yang ingin di hosting
+	 -Pilih domain atau subdomain yang telah tesedia
+	 -Unggah website anda
+	 -Konfigurasi database atau pengaturan lainnya
+	 -Verifikasi uji coba website anda
+
+2. Pilih penyedia hosting web yang menurut Anda paling cocok untuk aplikasi web Anda. Berikan alasan Anda.
+   Jawab: Saya memilih hosting 000webhost sebagai penyedia hosting web saya karena ini gratis dan mudah digunakan
+
+3. Bagaimana Anda memastikan keamanan aplikasi web yang Anda host?
+   Jawab: -Menggunakan kata sandi yang kuat atau dengan kombinasi huruf besar, huruf kecil, angka, dan simbol.
+	  -Backup berkala
+	  -Batasi akses jumlah pengguna menggunakan otentik dua faktor, atau mengatur hak akses
+
+4. Jelaskan konfigurasi server yang Anda terapkan untuk mendukung aplikasi web Anda.
+   Jawab: Berikut beberapa elemen konfigurasi yang dapat mendukung aplikasi web dengan hosting 000webhost;
+	   -Memastikan versi PHP yang digunakan adalah yang didukung oleh penyedia hosting.
+	   -Database, menggunakan SQL sebagai database yang didukung oleh penyedia hosting.
+	   -Perhatikan ruang penyimpanan dan Bandwidth yang diizinkan oleh penyedia hosting.
+	   -Pastikan memiliki akses FTP atau File Manager yang memadai untuk mengelola file aplikasi web.
+	   -Pastikan penyedia hosting mendukung framework yang digunakan.
+	   -Pastikan 000webhost menyediakan opsi untu mengaktifkan SSL agar situs web dapat diakses melalui protokol HTTPS untuk keamanan yang lebih baik.
